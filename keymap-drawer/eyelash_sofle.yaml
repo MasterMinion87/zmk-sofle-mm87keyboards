@@ -76,7 +76,7 @@ layers:
   - F7
   - F8
   - F9
-  - '?'
+  - {t: '-', s: _}
   - $$mdi:backspace-reverse-outline$$
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '`', s: '~'}
